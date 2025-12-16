@@ -6,8 +6,4 @@
     <ShouldRunBuildScript>false</ShouldRunBuildScript>
     <BuildOutputFolder>$(MSBuildProjectDirectory)\reactlab3\dist</BuildOutputFolder>
   </PropertyGroup>
-  
-  <ItemGroup>
-    <Folder Include="reactlab3\" />
-  </ItemGroup>
 </Project>
